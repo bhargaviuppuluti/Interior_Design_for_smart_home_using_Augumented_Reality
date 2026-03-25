@@ -78,6 +78,7 @@ Integration with e-commerce platforms
 Improved real-time rendering performance
 
 📄 Project Document
+https://github.com/bhargaviuppuluti/Interior_Design_for_smart_home_using_Augumented_Reality/tree/mainInterDesignForSmartHomeUsingAugumentedReality.pdf
 
 
 
