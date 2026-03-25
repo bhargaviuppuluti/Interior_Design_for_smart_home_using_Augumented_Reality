@@ -51,6 +51,7 @@ ARCore with Sceneform
 OpenGL (Rendering)
 Blender (3D Model Creation)
 GLB / glTF 3D formats
+
 📱 How It Works
 User opens the application
 Selects room and furniture type
@@ -58,23 +59,27 @@ Camera scans the environment
 System detects surface/marker
 3D model is placed in real space
 User interacts using gestures
+
 📊 Advantages
 Saves time and cost
 No need for physical store visits
 Better visualization of interiors
 Easy to use for non-technical users
+
 ⚠️ Limitations
 Requires good lighting and surface detection
 Performance depends on device capability
 Limited by available 3D models
+
 🔮 Future Enhancements
 AI-based furniture recommendations
 Cloud-based model storage
 Integration with e-commerce platforms
 Improved real-time rendering performance
+
 📄 Project Document
 
-👉 View Full Project Report
+
 
 👥 Contributors
 
